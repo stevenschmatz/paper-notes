@@ -9,6 +9,7 @@ This is a collection of all of my notes on research papers that I took in 2018.
 1. [Deep Learning - A Critical Appraisal](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/Deep%20Learning%20-%20A%20Critical%20Appraisal%20(Marcus%2C%202018).pdf) (Marcus et al., 2018)
 2. [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/High-Resolution%20Image%20Synthesis%20and%20Semantic%20Manipulation%20with%20Conditional%20GANs%20(Wang%2C%202017).pdf) (Wang et al., 2017)
 3. [The Case for Learned Index Structures](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/The%20Case%20for%20Learned%20Index%20Structures%20(Kraska%2C%202017).pdf) (Kraska et al., 2017)
+4. [pix2code: Generating Code from Graphical User Interface Screenshots](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/pix2code:%20Generating%20Code%20from%20a%20Graphical%20User%20Interface%20Screenshot%20(Beltramelli%2C%202017)_LT-2.pdf) (Beltramelli et al., 2017)
 
 ### Reinforcement Learning
 
