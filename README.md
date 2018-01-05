@@ -11,6 +11,7 @@ This is a collection of all of my notes on research papers that I took in 2018.
 3. [The Case for Learned Index Structures](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/The%20Case%20for%20Learned%20Index%20Structures%20(Kraska%2C%202017).pdf) (Kraska et al., 2017)
 4. [pix2code: Generating Code from Graphical User Interface Screenshots](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/pix2code:%20Generating%20Code%20from%20a%20Graphical%20User%20Interface%20Screenshot%20(Beltramelli%2C%202017)_LT-2.pdf) (Beltramelli et al., 2017)
 5. [Conditional Generative Adversarial Nets](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/Conditional%20Generative%20Adversarial%20Nets%20(Mirza%2C%202014).pdf) (Mirza et al., 2014)
+6. [MIDINet: A Convolutional Generative Adversarial Network for Symbolic-Domain Music Generation](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/MIDINet:%20A%20Convolutional%20Generative%20Adversarial%20Network%20for%20Symbolic-Domain%20Music%20Generation%20(Yang%2C%202017).pdf) (Yang et al., 2017)
 
 ### Reinforcement Learning
 
