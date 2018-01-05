@@ -15,3 +15,7 @@ This is a collection of all of my notes on research papers that I took in 2018.
 1. [Toward Deep Symbolic Reinforcement Learning](https://github.com/stevenschmatz/paper-notes/blob/master/Reinforcement%20Learning/Towards%20Deep%20Symbolic%20Reinforcement%20Learning%20(Garnelo%2C%202016).pdf) (Garnelo et al., 2016)
 2. [DeepMind Control Suite](https://github.com/stevenschmatz/paper-notes/blob/master/Reinforcement%20Learning/DeepMind%20Control%20Suite%20(Tasha%2C%202018).pdf) (Tassa et al., 2018)
 3. [Mastering Shogi and Chess by Self-Play with a General Reinforcement Learning Algorithm](https://github.com/stevenschmatz/paper-notes/blob/master/Reinforcement%20Learning/Mastering%20Shogi%20and%20Chess%20by%20Self-Play%20with%20a%20General%20Reinforcement%20Learning%20Algorithm%20(Silver%2C%202017).pdf) (Silver et al., 2017)
+
+### Natural Language Processing
+
+1. []
