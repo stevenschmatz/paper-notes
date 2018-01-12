@@ -16,6 +16,7 @@ This is a collection of all of my notes on research papers that I took in 2018.
 8. [Houdini: Fooling Deep Structured Prediction Models](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/Houdini:%20Fooling%20Deep%20Structured%20Prediction%20Models%20(Cisse%2C%202017).pdf) (Cisse et al., 2017)
 9. [Semi-Adversarial Networks - Convolutional Autoencoders for Imparting Privacy to Face Images](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/Semi-Adversarial%20Networks:%20Convolutional%20Autoencoders%20for%20Imparting%20Privacy%20to%20Face%20Images%20(Mirjalili%2C%202017).pdf) (Mirjalili et al., 2017)
 10. [Parallel WaveNet - Fast High-Fidelity Audio Synthesis](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/Parallel%20WaveNet:%20Fast%20High-Fidelity%20Speech%20Synthesis%20(van%20den%20Oord%2C%202017).pdf) (van den Oord et al., 2017)
+11. [Adversarial Spheres](https://github.com/stevenschmatz/paper-notes/blob/master/Deep%20Learning/Adversarial%20Spheres%20(Gilmer%2C%202018).pdf) (Gilmer et al., 2018)
 
 ### Reinforcement Learning
 
